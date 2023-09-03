@@ -1,7 +1,7 @@
 > This is not an official Tilt Five product. Read [the disclaimer](#disclaimer) for details.
 # GridGames for Tilt Five
-![Preview Screenshot!](/Recordings/previewCombined.gif)
-</br><sub>Preview Screencap - Longer versions here: [Chess](https://github.com/KasHunt/T5Doodle_GridGames/raw/master/Recordings/previewChess.mp4) | [Reversi](https://github.com/KasHunt/T5Doodle_GridGames/raw/master/Recordings/previewReversi.mp4) | [Checkers](https://github.com/KasHunt/T5Doodle_GridGames/raw/master/Recordings/previewCheckers.mp4)</sub>
+![Preview Screenshot!](/Recordings/Screenshot.jpg)
+</br><sub>Screenshots - Video Previews here: [Checkers](https://github.com/KasHunt/T5Doodle_GridGames/raw/master/Recordings/previewCheckers.mp4) | [Chess](https://github.com/KasHunt/T5Doodle_GridGames/raw/master/Recordings/previewChess.mp4) | [Reversi](https://github.com/KasHunt/T5Doodle_GridGames/raw/master/Recordings/previewReversi.mp4)</sub>
 
 ## Description
 A small collection of grid based games for Tilt Five.
